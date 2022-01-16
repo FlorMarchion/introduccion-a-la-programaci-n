@@ -18,5 +18,8 @@ de directorio me encuentro parado
 "clear" - me limpia la consola
 
 
+hola esto es una prueba de github
+
+
 
 
