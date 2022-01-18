@@ -1,0 +1,13 @@
+- Ctrl + S (Buscar/Search)
+- cmd (consola)
+
+
+- Para moverse entre carpetas, se usa "cd" (change directory)
+
+- para moverse hacia atras es "cd.."
+
+- Para moverse a la carpeta raiz, uso "cd \"
+
+- para limpiar la consola, usamos "cls"
+
+- para cortar ejecucion y para borrar lo escrito se puede usar "Ctrl + C"

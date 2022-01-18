@@ -1,0 +1,24 @@
+int myNum = 5;               // Integer (whole number)
+
+float myFloatNum = 5.99f;    // Floating point number
+
+char myLetter = 'D';         // Character
+
+El char SI O SI, tiene que ir con comillas simples
+
+
+boolean myBool = true;       // Boolean
+
+String myText = "Hello";     // String
+
+El String tiene que ir SI O SI con comillas dobles
+AUNQUE, el String como tal...tambien puede ser un char, de un caractér.
+
+Las variables se definen asi: 
+
+"tipo de dato" + nombre de la variable + valor inicial
+
+Las Constantes se definen asi:
+final (es la forma de decir que el valor no va a cambiar) + "tipo de dato" + nombre de la constante
++ valor;
+

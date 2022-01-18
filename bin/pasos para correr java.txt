@@ -1,0 +1,25 @@
+te dejo los pasos..(despues pasalos a un archivo de texto
+en otra carpeta, con otro nombre o donde quieras guardarlo)
+- open visual studio code
+- try dont open any folders
+- in the vsc (visual studio code)...
+- Create Java Project
+- Select No Build Tools
+- Select a folder for save project, directories and files
+- Input a Project Name 
+- inside src, you have a App.java, where you can do any 
+ modifications
+
+"ls" me muestra las carpetas que existen donde estoy parado (no borres este archivo de texto)
+
+"pwd" - me muestra donde estoy parado, en que directorio, o direccion
+de directorio me encuentro parado
+
+"clear" - me limpia la consola
+
+
+hola esto es una prueba de github
+
+
+
+
