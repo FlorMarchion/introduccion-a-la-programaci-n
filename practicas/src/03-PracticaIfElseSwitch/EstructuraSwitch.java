@@ -22,12 +22,5 @@ public class EstructuraSwitch {
             default:
                 System.out.println("Suspendido");
         }
-
-        // if(false){
-        // console.log("Suspendido");
-        // }else{
-        // console.log("Suspendido");
-        // }
-
     }
 }
