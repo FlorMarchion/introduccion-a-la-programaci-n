@@ -1,3 +1,2 @@
 # introduccionProgramacion
-
-Algunas notas cuando comencé a estudiar programación de manera autodidacta
+- Algunas notas cuando comencé a estudiar programación de manera autodidacta
